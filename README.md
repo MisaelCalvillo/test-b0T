@@ -73,3 +73,10 @@
 - [ ] `while (i <= 10; i++)`
 - [ ] `while (i <= 10)`
 - [ ] `while i = 1 to 10`
+
+12. ¿Cómo se inicia un loop FOR?
+
+- [ ] `for (i = 0; i <= 5)`
+- [ ] `for i = 1 to 5`
+- [ ] `for (i = 0; i <= 5; i++)`
+- [ ] `for (i <= 5; i++)`

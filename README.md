@@ -18,4 +18,8 @@
 - [ ] `document.getElementByName("p").innerHTML = "Hello World!";`
 
 
+3. ¿Cuál es el lugar correcto para insertar JavaScript?
 
+- [ ] En la sección de `<head>`.
+- [ ] Ambas secciones `<head>` y `<body>` son correctas.
+- [ ] En la sección de `<body>`.

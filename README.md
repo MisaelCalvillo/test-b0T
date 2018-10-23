@@ -92,3 +92,10 @@
 - [ ] `<!--This comment has more than one line-->`
 - [ ] `/*This comment has more than one line*/`
 - [ ] `//This comment has more than one line//`
+
+15. ¿Cuál es la manera correcta de escribir un ARRAY en JavaScript?
+
+- [ ] `var colors = ["red", "green", "blue"]`
+- [ ] `var colors = "red", "green", "blue"`
+- [ ] `var colors = (1:"red", 2:"green", 3:"blue")`
+- [ ] `var colors = 1 = ("red"), 2 = ("green"), 3 = ("blue")`

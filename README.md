@@ -123,3 +123,10 @@
 - [ ] `true`
 - [ ] `NaN`
 - [ ] `false`
+
+20. ¿Qué significa CSS?
+
+- [ ] Computer Style Sheets
+- [ ] Colorful Style Sheets
+- [ ] Creative Style Sheets
+- [ ] Cascading Style Sheets

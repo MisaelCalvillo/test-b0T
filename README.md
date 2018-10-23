@@ -23,3 +23,9 @@
 - [ ] En la sección de `<head>`.
 - [ ] Ambas secciones `<head>` y `<body>` son correctas.
 - [ ] En la sección de `<body>`.
+
+4. ¿Cuál es la sintaxis correcta para referirse a un script externo llamado "xxxx.js"?
+
+- [ ] `<script name="xxx.js">`
+- [ ] `<script href="xxx.js">`
+- [ ] `<script src="xxx.js">`

@@ -48,8 +48,15 @@
 - [ ] `function = myFunction()`
 - [ ] `function:myFunction()`
 
-7. ¿Cómo ejecutas una función llamada "myFunction"?
+8. ¿Cómo ejecutas una función llamada "myFunction"?
 
 - [ ] `myFunction()`
 - [ ] `call myFunction()`
 - [ ] `call function myFunction()`
+
+9. ¿Cómo se escribe un IF en JavaScript?
+
+- [ ] `if i = 5`
+- [ ] `if (i == 5)`
+- [ ] `if i = 5 then`
+- [ ] `if i == 5 then`

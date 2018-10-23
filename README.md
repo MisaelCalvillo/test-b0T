@@ -34,3 +34,10 @@
 
 - [ ] Falso
 - [ ] Verdadero
+
+6. ¿Cómo escribes "Hello World" en una caja de alerta?
+
+- [ ] `msgBox("Hello World");`
+- [ ] `alertBox("Hello World");`
+- [ ] `alert("Hello World");`
+- [ ] `msg("Hello World");`

@@ -24,8 +24,13 @@
 - [ ] Ambas secciones `<head>` y `<body>` son correctas.
 - [ ] En la sección de `<body>`.
 
-4. ¿Cuál es la sintaxis correcta para referirse a un script externo llamado "xxxx.js"?
+4. ¿Cuál es la sintaxis correcta para referirse a un script externo llamado "xxx.js"?
 
 - [ ] `<script name="xxx.js">`
 - [ ] `<script href="xxx.js">`
 - [ ] `<script src="xxx.js">`
+
+5. ¿El archivo externo de JavaScript debe contener un tag `<script>`>?
+
+- [ ] Falso
+- [ ] Verdadero

@@ -99,3 +99,21 @@
 - [ ] `var colors = "red", "green", "blue"`
 - [ ] `var colors = (1:"red", 2:"green", 3:"blue")`
 - [ ] `var colors = 1 = ("red"), 2 = ("green"), 3 = ("blue")`
+
+16. ¿JavaScript es lo mismo que Java?
+
+- [ ] Verdadero
+- [ ] Falso
+
+17. ¿Cómo declaras una variable en JavaScript?
+
+ - [ ] `v carName;`
+ - [ ] `variable carName;`
+ - [ ] `var carName;`
+
+ 18. ¿Qué operador se usa para asignar un valor a una variable?
+ 
+ - [ ] `=`
+ - [ ] `*`
+ - [ ] `x`
+ - [ ] `-`

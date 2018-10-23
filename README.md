@@ -4,6 +4,6 @@
 
 - [ ] `<scripting>`
 - [ ] `<script>`
-- [ ]`<js>`
-- [x]`<javascript>`
+- [ ] `<js>`
+- [x] `<javascript>`
 

@@ -112,8 +112,14 @@
  - [ ] `var carName;`
 
  18. ¿Qué operador se usa para asignar un valor a una variable?
- 
+
  - [ ] `=`
  - [ ] `*`
  - [ ] `x`
  - [ ] `-`
+
+ 19. ¿Qué regresa la siguiente línea de código: `Boolean(10 > 9)`?
+
+- [ ] `true`
+- [ ] `NaN`
+- [ ] `false`

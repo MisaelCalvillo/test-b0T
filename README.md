@@ -35,9 +35,15 @@
 - [ ] Falso
 - [ ] Verdadero
 
-6. ¿Cómo escribes "Hello World" en una caja de alerta?
+6. ¿Cómo escribes "Hello World" en una pestaña emergente de alerta?
 
 - [ ] `msgBox("Hello World");`
 - [ ] `alertBox("Hello World");`
 - [ ] `alert("Hello World");`
 - [ ] `msg("Hello World");`
+
+7. ¿Cómo creas una función en JavaScript?
+
+- [ ] `function myFunction()`
+- [ ] `function = myFunction()`
+- [ ] `function:myFunction()`
